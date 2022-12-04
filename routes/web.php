@@ -2,16 +2,11 @@
 
 use App\Http\Controllers\AdminController;
 use App\Http\Controllers\Auth\AuthenticatedSessionController;
-use App\Http\Controllers\ContactsController;
 use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\DokterController;
-use App\Http\Controllers\ImagesController;
 use App\Http\Controllers\KlinikController;
-use App\Http\Controllers\OrganizationsController;
 use App\Http\Controllers\PasienController;
 use App\Http\Controllers\PendaftaranController;
-use App\Http\Controllers\ReportsController;
-use App\Http\Controllers\UsersController;
 use Illuminate\Support\Facades\Route;
 
 /*

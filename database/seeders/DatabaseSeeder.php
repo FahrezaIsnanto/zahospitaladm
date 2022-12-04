@@ -2,17 +2,12 @@
 
 namespace Database\Seeders;
 
-use App\Models\Account;
 use App\Models\Admin;
-use App\Models\Contact;
 use App\Models\Dokter;
 use App\Models\Klinik;
-use App\Models\Organization;
 use App\Models\Pasien;
 use App\Models\Pendaftaran;
-use App\Models\User;
 use Illuminate\Database\Seeder;
-use Illuminate\Support\Facades\Hash;
 
 class DatabaseSeeder extends Seeder
 {
