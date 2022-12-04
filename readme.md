@@ -2,7 +2,7 @@
 
 Hospital Registration App - Final Project Database System 2022
 
-![](https://raw.githubusercontent.com/inertiajs/pingcrm/master/screenshot.png)
+![](https://user-images.githubusercontent.com/85225804/205470436-2541935e-e9bc-4af0-b886-bd921d568917.png)
 
 ## Installation
 
