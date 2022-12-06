@@ -35,7 +35,7 @@ export default {
     return {
       form: this.$inertia.form({
         username: 'zahosadm',
-        password: 'pwa80smg'
+        password: 'testadm'
       }),
     }
   },
